@@ -12,4 +12,9 @@
  
  2 - Download and install <a href="https://nodejs.org/en/download"> Node.js </a> <br>
 
- #In Progress#
+<hr>
+
+<h3>API Documentation</h3>
+<a href="https://secrets-api.appbrewery.com/"> Secrets API Documentation </a> <br>
+
+<hr>
