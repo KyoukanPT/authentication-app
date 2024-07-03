@@ -33,6 +33,6 @@
 <p> - Generate an API Key (Check API documentation). </p>
 <p> - Generate a Bearer Token (Check API documentation). </p>
 <p> - After doing all the above steps, replace the placeholders values on lines 8, 9, 10, 11.  </p>
-<p> - Start your server with the following command on your terminal **node index.js** .</p>
+<p> - Start your server with the following command on your terminal <b>node index.js</b> .</p>
 <p> - After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
 <p> - Now you can use the App. To do so, simply click on the buttons on the screen to generate a random secret.</p>
