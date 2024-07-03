@@ -23,10 +23,16 @@
 3 - npm install <br>
 4 - npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
 5 - npm install <a href="https://ejs.co/"> EJS </a> <br>
-6 - npm install <a href="https://axios-http.com/docs/intro">Axios </a> <br>
-7 - node index.js <br>
+6 - npm install <a href="https://axios-http.com/docs/intro"> Axios </a> <br>
 
 <hr>
 
 <h3>How to use the App?</h3>
-**IN PROGRESS**
+<h4> For the following steps, you'll need to use <a href="https://www.postman.com/downloads/"> Postman </a> for API testing. </h4>
+<p> - Register your user with a username and password (Check API documentation). </p>
+<p> - Generate an API Key (Check API documentation). </p>
+<p> - Generate a Bearer Token (Check API documentation). </p>
+<p> - After doing all the above steps, replace the placeholders values on lines 8, 9, 10, 11.  </p>
+<p> - Start your server with the following command on your terminal **node index.js** .</p>
+<p> - After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
+<p> - Now you can use the App. To do so, simply click on the buttons on the screen to generate a random secret.</p>
