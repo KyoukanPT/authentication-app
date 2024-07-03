@@ -27,7 +27,7 @@
 
 <hr>
 
-<h3>Setup before using the App?</h3>
+<h3>Setup before using the App</h3>
 <h4> For the following steps, you'll need to use <a href="https://www.postman.com/downloads/"> Postman </a> for API testing. </h4>
 <p> - Register your user with a username and password (Check API documentation). </p>
 <p> - Generate an API Key (Check API documentation). </p>
