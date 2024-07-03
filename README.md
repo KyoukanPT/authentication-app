@@ -32,7 +32,7 @@
 <p> - Register your user with a username and password (Check API documentation). </p>
 <p> - Generate an API Key (Check API documentation). </p>
 <p> - Generate a Bearer Token (Check API documentation). </p>
-<p> -------------------------------------------------------------------------------------- </p>
+<p> ----------------------------------- </p>
 <p> - After doing all the above steps, replace the placeholders values on lines 8, 9, 10, 11.  </p>
 <p> - Start your server with the following command on your terminal: <b>node index.js</b> .</p>
 <p> - After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>. </p>
